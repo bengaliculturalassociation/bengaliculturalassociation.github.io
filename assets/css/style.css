@@ -1,0 +1,25 @@
+.dropdown-menu {
+	color: #FFFFFF;
+	background-color: rgb(136, 11, 22);
+}
+
+.dropdown-menu>li>a {
+	color: #FFFFFF;
+}
+
+#menu-margin-colors {
+	margin-top:7px;
+	margin-right: 3px;
+	margin-left: 3px;
+	background-color: rgb(136, 11, 22);
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.img-responsive {
+	height: 66px;
+}
+
+.navbar {
+	background-color: rgb(136, 11, 22);
+}
