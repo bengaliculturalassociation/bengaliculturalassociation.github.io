@@ -9,6 +9,7 @@
   "author": "Anubhab Sen",
   "license": "MIT",
   "dependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-image-resize": "^0.12.0"
   }
 }
