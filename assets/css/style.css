@@ -23,3 +23,13 @@
 .navbar {
 	background-color: rgb(136, 11, 22);
 }
+
+.mainpagepics {
+  background: rgb(85, 1, 16);
+  background: -webkit-radial-gradient(rgb(120, 0, 22) 5%, rgb(106, 0, 22) 15%, rgb(85, 1, 16) 60%); /* Safari 5.1-6.0 */
+  background: -o-radial-gradient(rgb(120, 0, 22) 5%, rgb(106, 0, 22) 15%, rgb(85, 1, 16) 60%); /* For Opera 11.6-12.0 */
+  background: -moz-radial-gradient(rgb(120, 0, 22) 5%, rgb(106, 0, 22) 15%, rgb(85, 1, 16) 60%); /* For Firefox 3.6-15 */
+  background: radial-gradient(rgb(120, 0, 22) 5%, rgb(106, 0, 22) 15%, rgb(85, 1, 16) 60%); /* Standard syntax */
+  height: 50px;
+  margin-top: 1.8em;
+}
