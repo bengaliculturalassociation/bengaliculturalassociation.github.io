@@ -21,9 +21,9 @@ imagesEvents = ['./assets/img/events/2.jpg',
 gulp.task('resize', function () {
   gulp.src(imagesEvents)
     .pipe(imageResize({
-      height : 500,
+      height : 300,
       width : 500,
-      crop : false,
+      crop : true,
       upscale : true
     }))
     .pipe(gulp.dest('gulpimages'));
