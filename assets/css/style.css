@@ -46,7 +46,7 @@
 
 .flexitemevents {
 	padding: 1em;
-	width: 32%;
+	width: 16%;
 }
 
 .eventscontainer {
@@ -65,7 +65,15 @@ img.banner {
 	height: 25em;
 }
 table {
+	width: 90%;
+	font-size: 1.3em;
 	margin: 2%;
 	margin-right: 4%;
 	padding: 1em;
+}
+
+td {
+	padding: 1em;
+	width:auto;
+	min-width:10px;
 }
