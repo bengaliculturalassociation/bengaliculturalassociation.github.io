@@ -33,6 +33,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  position: relative;
 }
 
 .flexitem {
@@ -85,4 +86,20 @@ body {
 
 .title {
 	font-size: 1.5em;
+}
+
+h2 {
+   position: absolute;
+   top: 30%;
+   left: 0;
+   width: 100%;
+}
+
+h2 span {
+   color: white;
+   font: bold 24px/45px Helvetica, Sans-Serif;
+   letter-spacing: -1px;
+   background: rgb(0, 0, 0);
+   background: rgba(0, 0, 0, 0.2);
+   padding: 10px;
 }
