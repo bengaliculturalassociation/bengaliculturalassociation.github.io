@@ -66,10 +66,12 @@ img.banner {
 	height: 25em;
 }
 table {
-	width: 90%;
+	width: 70%;
 	font-size: 1.3em;
+	font-weight: bold;
 	margin: 2%;
-	margin-right: 4%;
+	margin-left: auto;
+	margin-right: auto;
 	padding: 1em;
 }
 
