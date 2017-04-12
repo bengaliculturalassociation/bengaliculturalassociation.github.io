@@ -87,7 +87,9 @@ body {
 }
 
 .title {
-	font-size: 1.5em;
+	font-size: 2em;
+	font-weight: bold;
+	color: rgb(136, 11, 22);
 }
 
 h2 {
@@ -110,4 +112,8 @@ p {
 	font-size: 1.7em;
 	/*text-align: left;*/
 	padding: 2.5em;
+}
+
+.text {
+	font-size: 1.5em;
 }
